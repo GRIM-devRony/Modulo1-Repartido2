@@ -1,0 +1,58 @@
+export const libreria = [
+  {
+    id: 1,
+    titulo: "Blancanieves",
+    autor: "Hermanos Grimm",
+    numPaginas: 12,
+    genero: "infantil",
+  },
+  {
+    id: 2,
+    titulo: "The Hobbit 1",
+    autor: "J.R.R Tolkien",
+    numPaginas: 381,
+    genero: "fantasia",
+  },
+  {
+    id: 3,
+    titulo: "El Señor de los Anillos",
+    autor: "J.R.R Tolkien",
+    numPaginas: 576,
+    genero: "fantasia",
+  },
+  {
+    id: 4,
+    titulo: "La bella y la bestia",
+    autor: "Jeanne Marie Leprince de Beaumont",
+    numPaginas: 288,
+    genero: "infantil",
+  },
+  {
+    id: 5,
+    titulo: "El despertar",
+    autor: "Lazurus Kilyx",
+    numPaginas: "101",
+    genero: "drama",
+  },
+  {
+    id: 6,
+    titulo: "The Hobbit 2",
+    autor: "J.R.R Tolkien",
+    numPaginas: "309",
+    genero: "fantasia",
+  },
+  {
+    id: 7,
+    titulo: "Memorias de una Geisha",
+    autor: "Arthur Golden",
+    numPaginas: "552",
+    genero: "drama",
+  },
+  {
+    id: 8,
+    titulo: "Caperucita Roja",
+    autor: "Hermanos Grimm",
+    numPaginas: "34",
+    genero: "infantil",
+  },
+];

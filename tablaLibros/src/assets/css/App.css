@@ -1,0 +1,58 @@
+
+
+table {
+  width: 100%;
+  border: 1px solid #000;
+  text-align: center;
+}
+th, td {
+  width: 25%;
+ text-align: center;
+}
+
+th {
+ 
+  background: #eee;
+}
+
+.header{
+background: rgb(0, 0, 0);
+
+padding: 5px;
+color: white;
+}
+
+.imagen{
+  width: 150px;
+height: 100px;
+
+background-image: url("../imgs/logo1.png");
+background-size: cover;
+background-position: center;
+}
+
+.footer{
+  background: rgb(0, 0, 0);
+  opacity: 0.7;
+  padding: 5px;
+  color: white;
+  position: fixed;
+  bottom: 0;  
+  width: 100%;
+  }
+
+ button{
+    
+    padding: 10px 25px;
+    background-color: #000000; /* Green */
+    color: white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    border-radius: 4px;
+    padding: 15px, 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
